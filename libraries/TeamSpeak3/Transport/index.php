@@ -1,0 +1,1 @@
+<meta HTTP-EQUIV='REFRESH' content='1; url=http://78.46.30.21/Panel/Games'/>

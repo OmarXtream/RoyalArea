@@ -1,0 +1,6 @@
+Options -Indexes
+ErrorDocument 400     http://rarea.cf/RoyalArea-Cp/Error.php
+ErrorDocument 401     http://rarea.cf/RoyalArea-Cp/Error.php
+ErrorDocument 403     http://rarea.cf/RoyalArea-Cp/Error.php
+ErrorDocument 404     http://rarea.cf/RoyalArea-Cp/Error.php
+ErrorDocument 500     http://rarea.cf/RoyalArea-Cp/Error.php
